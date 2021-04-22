@@ -1,5 +1,6 @@
 # chatroom
-This is a socket.io implementation for chatroom application
+This is a socket.io implementation for chatroom application.
+
 Reference - https://www.youtube.com/watch?v=jD7FnbI76Hg&t=6s
 
 Tech Stack used - 
